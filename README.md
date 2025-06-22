@@ -20,7 +20,7 @@
 ## ⚒️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,spring,jupyter,py,git,eclipse,mysql,mongodb,firebase,flutter,dart,c,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,spring,py,git,eclipse,mysql,mongodb,firebase,flutter,dart,c,vscode" />
 </p>
 
 ---
@@ -45,12 +45,24 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:lokeshborse90@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/lokeshborse07"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.instagram.com/lokessh__18/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://github.com/lokeshborse07"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.hackerrank.com/lokeshborse90"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/lokeshborse07"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
+  <a href="mailto:lokeshborse90@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" height="40" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/lokeshborse07" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/lokessh__18/" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="40" height="40" alt="Instagram" />
+  </a>
+  <a href="https://github.com/lokeshborse07" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="40" height="40" alt="GitHub" />
+  </a>
+  <a href="https://www.hackerrank.com/lokeshborse90" target="_blank">
+    <img src="https://img.icons8.com/windows/48/2EC866/hackerrank.png" width="40" height="40" alt="HackerRank" />
+  </a>
+  <a href="https://www.codechef.com/users/lokeshborse07" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/5B4638/chef-hat.png" width="40" height="40" alt="CodeChef" />
+  </a>
 </p>
 
 ---
