@@ -11,7 +11,7 @@
 
 - 🎓 **B.Tech in Computer Engineering** — Class of 2025  
 - 🧠 Passionate about building scalable **Java + React web applications**  
-- 💻 Experienced with full-stack tools like **JSP, Servlets, JDBC, and Spring Boot**  
+- 💻 Experienced with full-stack tools like **JSP, Servlets, JDBC, Spring Boot**  
 - 🌱 Currently mastering **Java Full Stack Development**  
 - 📬 Reach me at: `lokeshborse90@gmail.com`
 
@@ -20,7 +20,7 @@
 ## ⚒️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,spring,mysql,git,vscode" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,spring,jupyter,py,git,eclipse,mysql,mongodb,firebase,flutter,dart,c,vscode" />
 </p>
 
 ---
@@ -46,11 +46,11 @@
 
 <p align="center">
   <a href="mailto:lokeshborse90@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/lokeshborse07" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.instagram.com/lokessh__18/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://github.com/lokeshborse07" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.hackerrank.com/lokeshborse90" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="28" /></a>
-  <a href="https://www.codechef.com/users/lokeshborse07" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="28" /></a>
+  <a href="https://www.linkedin.com/in/lokeshborse07"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.instagram.com/lokessh__18/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://github.com/lokeshborse07"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.hackerrank.com/lokeshborse90"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/lokeshborse07"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
 </p>
 
 ---
