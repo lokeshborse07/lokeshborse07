@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Lokesh Borase</h1>
-<h3 align="center">🚀 Full Stack Developer | Java & React Enthusiast | JSP & Backend Specialist</h3>
+<h3 align="center">🚀 Full Stack Developer | Java & React Enthusiast | Backend Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lokeshborse07&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshborse07" />
