@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Lokesh Borase</h1>
-<h3 align="center">🚀 Full Stack Developer | Java & React Enthusiast | JSP & Backend Focused</h3>
+<h3 align="center">🚀 Full Stack Developer | Java & React Enthusiast | JSP & Backend Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lokeshborse07&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshborse07" />
@@ -9,10 +9,11 @@
 
 ## 💡 About Me
 
-- 🎓 **B.Tech in Computer Engineering** — Class of 2025  
-- 🧠 Passionate about building scalable **Java + React web applications**  
-- 💻 Experienced with full-stack tools like **JSP, Servlets, JDBC, Spring Boot**  
-- 🌱 Currently mastering **Java Full Stack Development**  
+- 🎓 **B.Tech in Computer Engineering** — Class of 2025 (R.C. Patel Institute of Technology)
+- 💻 Passionate about building scalable **Java + React** web applications
+- 🧠 Experienced in full-stack tools like **Spring Boot, JSP, Servlets, and Firebase**
+- 🌱 Currently mastering **Java Full Stack Development** with real-world projects
+- 🎯 Seeking **entry-level roles in backend or full-stack development**
 - 📬 Reach me at: `lokeshborse90@gmail.com`
 
 ---
@@ -27,10 +28,10 @@
 
 ## 🧪 Project Highlights
 
-- 🔌 **EV Charging Station Locator** (Flutter + Firebase)
-- 🏠 **PM Awas Yojana Portal** (Java, JSP, MySQL)
-- 🛒 **Ecommerce Website** (React.js + Tailwind CSS)
-- 🚗 **Vehicle Rental System** (Spring Boot + MySQL)
+- 🔌 [EV Charging Station Locator](https://github.com/lokeshborse07/EV_Charging) – Flutter + Firebase  
+- 🏠 [PM Awas Yojana Portal](https://github.com/lokeshborse07/PM-Awas_Yojna) – Java, JSP, Servlets, MySQL  
+- 🛒 [Ecommerce Website](https://github.com/lokeshborse07/Ecommerce-Website) – React.js + Tailwind CSS  
+- 🚗 Vehicle Rental System – Spring Boot + MySQL
 
 ---
 
@@ -68,3 +69,5 @@
 ---
 
 > 🔥 *“Turning code into creative solutions – one line at a time.”*
+
+🌐 **Portfolio**: [https://my-portfolio-chi-seven-35.vercel.app](https://my-portfolio-chi-seven-35.vercel.app)
